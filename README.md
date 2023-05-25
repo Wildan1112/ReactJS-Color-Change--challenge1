@@ -1,5 +1,17 @@
-# react-color-change
 
-npm install
+# Color Change Input
 
-npm run dev
+Color Change Input with React JS
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install
+```
+```bash
+  npm run dev
+```
+    
